@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+output: html_document
+date: "2023-02-23"
+---
+
+
+# AmericanGenerations
+
+Some resources.

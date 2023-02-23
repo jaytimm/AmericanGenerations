@@ -1,0 +1,21 @@
+Cycle,Era,Era_Type,Years,Generation,Gen_Type
+Colonial,Renaissance ,Outer Driven ,1584-1614 ,Puritan ,Idealist
+Colonial,Puritan Awakening ,Awakening ,1615-1647,Cavalier ,Reactive
+Colonial,Religious Intolerance ,Inner Driven ,1648-1673,Glorious ,Civic
+Colonial,Glorious Revolution ,Crisis ,1674-1700,Enlightenment ,Adaptive
+Revolutionary,Age of Enlightenment ,Outer Driven ,1701-1723,Awakening ,Idealist
+Revolutionary,Great Awakening ,Awakening ,1724-1741,Liberty ,Reactive
+Revolutionary,French/Indian War ,Inner Driven ,1742-1766,Republican ,Civic
+Revolutionary,American Revolution ,Crisis ,1767-1791,Compromise ,Adaptive
+Civil War,Era of Good Feeling ,Outer Driven ,1792-1821,Transcendental ,Idealist
+Civil War,Transcend. Awakening ,Awakening ,1822-1842,Gilded ,Reactive
+Civil War,Pre Civil War ,Inner Driven ,1843-1843,_none_ ** ,civic
+Civil War,Civil War ,Crisis ,1843-1859,Progressive ,Adaptive
+World War,Reconstruction ,Outer Driven ,1860-1882,Missionary ,Idealist
+World War,Missionary Awakening ,Awakening ,1883-1900,Lost ,Reactive
+World War,World War I ,Inner Driven ,1901-1924,G.I. ,Civic
+World War,World War II ,Crisis ,1925-1942,Silent ,Adaptive
+Present,Superpower America ,Outer Driven ,1943-1960,Boom ,Idealist
+Present,Boom Awakening ,Awakening ,1961-1981,Thirteenth*** ,Reactive
+Present,Information Revolution ,Inner Driven ,1982-2001,Millennial ,Civic
+Present,(Power Down?) ,Crisis ,2001-2022,(Homeland?) ,Adaptive
