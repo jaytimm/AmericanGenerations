@@ -1,0 +1,21 @@
+generation,start,end,model
+Puritan ,1584,1614,strauss
+Cavalier ,1615,1647,strauss
+Glorious ,1648,1673,strauss
+Enlightenment ,1674,1700,strauss
+Awakening ,1701,1723,strauss
+Liberty ,1724,1741,strauss
+Republican ,1742,1766,strauss
+Compromise ,1767,1791,strauss
+Transcendental ,1792,1821,strauss
+Gilded ,1822,1842,strauss
+Progressive ,1843,1859,strauss
+Missionary ,1860,1882,strauss
+Lost ,1883,1900,strauss
+Greatest,1901,1927,pew
+Silent,1928,1945,pew
+Boomers,1946,1964,pew
+Gen X,1965,1980,pew
+Millenials,1981,1996,pew
+Gen Z,1997,2012,pew
+Post-Z,2013,2028,pew
