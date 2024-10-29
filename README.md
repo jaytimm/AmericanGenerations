@@ -44,9 +44,10 @@ available by the US Census as CSV file
 ``` r
 dlink <- 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/national/asrh/nc-est2023-alldata-p-file10.csv'
 
+
 pops <- read.csv (
   url(dlink)) |>
-  filter(MONTH == '10' & YEAR == '2024') |>
+  filter(MONTH == '10' & YEAR == '2024') |> 
   tidyr::gather(key = 'race', 
                 value = 'pop', 
                 -UNIVERSE:-AGE)
@@ -88,24 +89,27 @@ gen_pops <- pops |>
   mutate(yob = 2024 - AGE)
 
 # Join gen_pops with gen_desc based on yob within start and end range
-data.table::setDT(gen_pops)[gen_desc, on = .(yob >= start, yob <= end), gen := i.gen]
+data.table::setDT(gen_pops)[gen_desc, 
+                            on = .(yob >= start, yob <= end), 
+                            gen := i.gen]
 
 gen_pops1 <- gen_pops |> left_join(gen_desc)
 
 gen_pops1 |> 
+  select(race1, yob, AGE, gen, pop) |>
   sample_n(7)  |>
   knitr::kable()
 ```
 
-| AGE | race  |     pop | race1                 |  yob | gen        | rank | start |  end |
-|----:|:------|-------:|:-------------------|-----:|:----------|-----:|------:|-----:|
-|  93 | H     |   25487 | Hispanic              | 1931 | Silent     |    2 |  1928 | 1945 |
-|  29 | NHWA  | 2342686 | White Alone           | 1995 | Millennial |    5 |  1981 | 1996 |
-|  39 | NHAA  |  357788 | Asian Alone           | 1985 | Millennial |    5 |  1981 | 1996 |
-|  49 | NHAA  |  300804 | Asian Alone           | 1975 | Gen X      |    4 |  1965 | 1980 |
-|   9 | NHNA  |    9463 | Native Hawaiian Alone | 2015 | Alpha      |    7 |  2013 | 2028 |
-|  73 | NHTOM |   27712 | Two or More Races     | 1951 | Boomers    |    3 |  1946 | 1964 |
-|  46 | H     |  863610 | Hispanic              | 1978 | Gen X      |    4 |  1965 | 1980 |
+| race1                 |  yob | AGE | gen    |    pop |
+|:----------------------|-----:|----:|:-------|-------:|
+| Asian Alone           | 1931 |  93 | Silent |  17012 |
+| Hispanic              | 1943 |  81 | Silent | 143350 |
+| American Indian Alone | 2014 |  10 | Alpha  |  32448 |
+| American Indian Alone | 1972 |  52 | Gen X  |  27332 |
+| Asian Alone           | 1928 |  96 | Silent |   9362 |
+| White Alone           | 1932 |  92 | Silent | 268502 |
+| Two or More Races     | 2013 |  11 | Alpha  | 198275 |
 
 ## Composition of American generations
 
@@ -180,6 +184,7 @@ gen_pops |>
         panel.grid.minor.y=element_blank()) +
   ggthemes::scale_fill_stata()+
   scale_x_reverse(breaks = rev(gg$AGE)) +
+  
   labs(title = 'American population by single-year age & generation')
 ```
 

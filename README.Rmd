@@ -40,9 +40,10 @@ gen_desc |> knitr::kable()
 ```{r message=FALSE, warning=FALSE}
 dlink <- 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/national/asrh/nc-est2023-alldata-p-file10.csv'
 
+
 pops <- read.csv (
   url(dlink)) |>
-  filter(MONTH == '10' & YEAR == '2024') |>
+  filter(MONTH == '10' & YEAR == '2024') |> 
   tidyr::gather(key = 'race', 
                 value = 'pop', 
                 -UNIVERSE:-AGE)
@@ -72,6 +73,8 @@ search <- paste(paste0('^',race, '_'), collapse =  '|')
 ```
 
 
+
+
 The following table details **a random sample of the data set** -- with Pew Research defined generations & estimated year-of-birth.
 
 ```{r message=FALSE, warning=FALSE}
@@ -85,11 +88,14 @@ gen_pops <- pops |>
   mutate(yob = 2024 - AGE)
 
 # Join gen_pops with gen_desc based on yob within start and end range
-data.table::setDT(gen_pops)[gen_desc, on = .(yob >= start, yob <= end), gen := i.gen]
+data.table::setDT(gen_pops)[gen_desc, 
+                            on = .(yob >= start, yob <= end), 
+                            gen := i.gen]
 
 gen_pops1 <- gen_pops |> left_join(gen_desc)
 
 gen_pops1 |> 
+  select(race1, yob, AGE, gen, pop) |>
   sample_n(7)  |>
   knitr::kable()
 ```
@@ -169,6 +175,7 @@ gen_pops |>
         panel.grid.minor.y=element_blank()) +
   ggthemes::scale_fill_stata()+
   scale_x_reverse(breaks = rev(gg$AGE)) +
+  
   labs(title = 'American population by single-year age & generation')
 ```
 
