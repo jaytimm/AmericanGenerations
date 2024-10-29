@@ -6,6 +6,8 @@ output:
 
 # American Generations
 
+> A quick look at the composition of American generations. Per Pew Research definitions & US Census data.
+
 ```{r message=FALSE, warning=FALSE}
 library(dplyr)
 
@@ -98,7 +100,7 @@ gen_pops1 |>
 
 ### Population by generation
 
-```{r fig.height=5}
+```{r fig.height=5, message=FALSE, warning=FALSE}
 library(ggplot2)
 gen_pops1 |>
   group_by(gen, rank) |>
@@ -140,7 +142,7 @@ gg <- gen_pops1 |>
 The figure below illustrates the US population by single year of age, ranging from the population aged less than a year to the population over 100 (as of October 2024).   Generation membership per single year of age is specified by color.
 
 
-```{r fig.height=7}
+```{r fig.height=7, message=FALSE, warning=FALSE}
 gen_pops |>
   ggplot(aes(x = AGE, 
              y = pop, 
@@ -148,8 +150,7 @@ gen_pops |>
   geom_vline(xintercept = gg$AGE,
              linetype =2, 
              color = 'gray', 
-             size = .25)+
-  
+             linewidth = .25)+
   geom_col(show.legend = FALSE, 
            alpha = 0.85,
            width = .7)   +

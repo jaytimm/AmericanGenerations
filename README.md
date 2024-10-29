@@ -1,5 +1,8 @@
 # American Generations
 
+> A quick look at the composition of American generations. Per Pew
+> Research definitions & US Census data.
+
 ``` r
 library(dplyr)
 
@@ -96,13 +99,13 @@ gen_pops1 |>
 
 | AGE | race  |     pop | race1                 |  yob | gen        | rank | start |  end |
 |----:|:------|-------:|:-------------------|-----:|:----------|-----:|------:|-----:|
-|  28 | NHTOM |  133078 | Two or More Races     | 1996 | Millennial |    5 |  1981 | 1996 |
-|  17 | NHAA  |  237931 | Asian Alone           | 2007 | Gen Z      |    6 |  1997 | 2012 |
-|  84 | NHAA  |   61300 | Asian Alone           | 1940 | Silent     |    2 |  1928 | 1945 |
-|  68 | NHAA  |  197562 | Asian Alone           | 1956 | Boomers    |    3 |  1946 | 1964 |
-|  17 | NHNA  |    9288 | Native Hawaiian Alone | 2007 | Gen Z      |    6 |  1997 | 2012 |
-| 100 | NHIA  |     855 | American Indian Alone | 1924 | Greatest   |    1 |  1901 | 1927 |
-|  79 | NHWA  | 1375534 | White Alone           | 1945 | Silent     |    2 |  1928 | 1945 |
+|  93 | H     |   25487 | Hispanic              | 1931 | Silent     |    2 |  1928 | 1945 |
+|  29 | NHWA  | 2342686 | White Alone           | 1995 | Millennial |    5 |  1981 | 1996 |
+|  39 | NHAA  |  357788 | Asian Alone           | 1985 | Millennial |    5 |  1981 | 1996 |
+|  49 | NHAA  |  300804 | Asian Alone           | 1975 | Gen X      |    4 |  1965 | 1980 |
+|   9 | NHNA  |    9463 | Native Hawaiian Alone | 2015 | Alpha      |    7 |  2013 | 2028 |
+|  73 | NHTOM |   27712 | Two or More Races     | 1951 | Boomers    |    3 |  1946 | 1964 |
+|  46 | H     |  863610 | Hispanic              | 1978 | Gen X      |    4 |  1965 | 1980 |
 
 ## Composition of American generations
 
@@ -131,9 +134,6 @@ gen_pops1 |>
        caption = 'SOURCE: US Census, Monthly Postcensal Resident Population, October 2024.')
 ```
 
-    ## `summarise()` has grouped output by 'gen'. You can override using the `.groups`
-    ## argument.
-
 ![](README_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
 ### Population by single year of age & generation
@@ -161,8 +161,7 @@ gen_pops |>
   geom_vline(xintercept = gg$AGE,
              linetype =2, 
              color = 'gray', 
-             size = .25)+
-  
+             linewidth = .25)+
   geom_col(show.legend = FALSE, 
            alpha = 0.85,
            width = .7)   +
@@ -183,12 +182,6 @@ gen_pops |>
   scale_x_reverse(breaks = rev(gg$AGE)) +
   labs(title = 'American population by single-year age & generation')
 ```
-
-    ## Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
-    ## ℹ Please use `linewidth` instead.
-    ## This warning is displayed once every 8 hours.
-    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
-    ## generated.
 
 ![](README_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
@@ -227,6 +220,12 @@ gen_pops |>
   scale_x_reverse(breaks = rev(gg$AGE) )+
   labs(title ='American population by age, race & generation')
 ```
+
+    ## Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+    ## ℹ Please use `linewidth` instead.
+    ## This warning is displayed once every 8 hours.
+    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
+    ## generated.
 
 ![](README_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
