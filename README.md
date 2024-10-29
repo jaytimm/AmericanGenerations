@@ -101,15 +101,15 @@ gen_pops1 |>
   knitr::kable()
 ```
 
-| race1             |  yob | AGE | gen        |     pop |
-|:------------------|-----:|----:|:-----------|--------:|
-| Asian Alone       | 1980 |  44 | Gen X      |  327443 |
-| White Alone       | 2020 |   4 | Alpha      | 1753923 |
-| White Alone       | 1944 |  80 | Silent     | 1326673 |
-| White Alone       | 1992 |  32 | Millennial | 2474490 |
-| Black Alone       | 1939 |  85 | Silent     |   84164 |
-| Two or More Races | 1929 |  95 | Silent     |    1929 |
-| Two or More Races | 2013 |  11 | Alpha      |  198275 |
+| race1                 |  yob | AGE | gen        |     pop |
+|:----------------------|-----:|----:|:-----------|--------:|
+| Two or More Races     | 1925 |  99 | Greatest   |     712 |
+| Native Hawaiian Alone | 1948 |  76 | Boomers    |    3494 |
+| Black Alone           | 1977 |  47 | Gen X      |  514558 |
+| Native Hawaiian Alone | 1990 |  34 | Millennial |   11281 |
+| Hispanic              | 2003 |  21 | Gen Z      | 1097151 |
+| Asian Alone           | 2016 |   8 | Alpha      |  244673 |
+| Black Alone           | 2017 |   7 | Alpha      |  552345 |
 
 ## Composition of American generations
 
@@ -208,7 +208,8 @@ gen_pops |>
             alpha = 0.85) +
   scale_fill_manual(values = gen_pal) +
   geom_vline(xintercept = gg$AGE,
-             linetype =2, color = 'gray', 
+             linetype = 2, 
+             color = 'gray', 
              linewidth = .25)+
   annotate(geom="text", 
            x = gg$AGE - 4.5, 
@@ -263,7 +264,7 @@ gen_pops |>
   geom_vline(xintercept = gg$AGE,
              linetype = 2, 
              color = 'gray', 
-             size = .25)+
+             linewidth = .25)+
   annotate(geom="text", 
            x = gg$AGE-4.5, 
            y = white_label$per - .05, 
@@ -279,11 +280,5 @@ gen_pops |>
   scale_x_reverse(breaks = rev(gg$AGE)) +
   labs(title = 'American population by age, race & generation')
 ```
-
-    ## Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
-    ## ℹ Please use `linewidth` instead.
-    ## This warning is displayed once every 8 hours.
-    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
-    ## generated.
 
 ![](README_files/figure-markdown_github/unnamed-chunk-11-1.png)
