@@ -202,7 +202,8 @@ gen_pops |>
             alpha = 0.85) +
   scale_fill_manual(values = gen_pal) +
   geom_vline(xintercept = gg$AGE,
-             linetype =2, color = 'gray', size = .25)+
+             linetype =2, color = 'gray', 
+             linewidth = .25)+
   annotate(geom="text", 
            x = gg$AGE - 4.5, 
            y = gg$tot + 70000, 
