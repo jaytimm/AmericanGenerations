@@ -232,7 +232,7 @@ gen_pops |>
 
 
 
-### White America on the wane 
+### A cross-section
 
 ```{r}
 white_label <- gen_pops |> 

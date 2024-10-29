@@ -108,15 +108,15 @@ gen_pops1 |>
   knitr::kable()
 ```
 
-| race1             |  yob | AGE | gen        |    pop |
-|:------------------|-----:|----:|:-----------|-------:|
-| Two or More Races | 1926 |  98 | Greatest   |    944 |
-| Asian Alone       | 1941 |  83 | Silent     |  65377 |
-| Hispanic          | 1948 |  76 | Boomers    | 233634 |
-| Hispanic          | 1956 |  68 | Boomers    | 407288 |
-| Black Alone       | 2009 |  15 | Gen Z      | 591896 |
-| Black Alone       | 1971 |  53 | Gen X      | 528981 |
-| Two or More Races | 1996 |  28 | Millennial | 133078 |
+| race1                 |  yob | AGE | gen        |     pop |
+|:----------------------|-----:|----:|:-----------|--------:|
+| American Indian Alone | 1970 |  54 | Gen X      |   28903 |
+| Two or More Races     | 1937 |  87 | Silent     |    7157 |
+| Native Hawaiian Alone | 1924 | 100 | Greatest   |     167 |
+| Hispanic              | 1986 |  38 | Millennial |  948671 |
+| White Alone           | 2001 |  23 | Gen Z      | 2292512 |
+| Two or More Races     | 2002 |  22 | Gen Z      |  155244 |
+| Native Hawaiian Alone | 2015 |   9 | Alpha      |    9463 |
 
 ## Composition of American generations
 
@@ -237,7 +237,7 @@ gen_pops |>
 
 ![](README_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
-### White America on the wane
+### A cross-section
 
 ``` r
 white_label <- gen_pops |> 
