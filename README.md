@@ -41,6 +41,12 @@ gen_desc |> knitr::kable()
 available by the US Census as CSV file
 [here](https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/national/asrh/nc-est2023-alldata-p-file10.csv).
 
+> **U.S. Census Bureau.** (2023). *Monthly Population Estimates by Age,
+> Sex, Race, and Hispanic Origin for the United States: April 1, 2020,
+> to July 1, 2023 (with short-term projections to December 2024).*
+> National population estimates. U.S. Department of Commerce. Retrieved
+> from <https://www.census.gov>
+
 ``` r
 dlink <- 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/national/asrh/nc-est2023-alldata-p-file10.csv'
 
@@ -102,15 +108,15 @@ gen_pops1 |>
   knitr::kable()
 ```
 
-| race1                 |  yob | AGE | gen        |     pop |
-|:----------------------|-----:|----:|:-----------|--------:|
-| White Alone           | 2019 |   5 | Alpha      | 1811340 |
-| Black Alone           | 1982 |  42 | Millennial |  566275 |
-| Black Alone           | 2015 |   9 | Alpha      |  564264 |
-| American Indian Alone | 2006 |  18 | Gen Z      |   36129 |
-| Two or More Races     | 2009 |  15 | Gen Z      |  191574 |
-| Hispanic              | 1924 | 100 | Greatest   |    6262 |
-| Two or More Races     | 1952 |  72 | Boomers    |   29543 |
+| race1             |  yob | AGE | gen        |    pop |
+|:------------------|-----:|----:|:-----------|-------:|
+| Two or More Races | 1926 |  98 | Greatest   |    944 |
+| Asian Alone       | 1941 |  83 | Silent     |  65377 |
+| Hispanic          | 1948 |  76 | Boomers    | 233634 |
+| Hispanic          | 1956 |  68 | Boomers    | 407288 |
+| Black Alone       | 2009 |  15 | Gen Z      | 591896 |
+| Black Alone       | 1971 |  53 | Gen X      | 528981 |
+| Two or More Races | 1996 |  28 | Millennial | 133078 |
 
 ## Composition of American generations
 
