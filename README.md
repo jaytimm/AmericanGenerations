@@ -44,7 +44,6 @@ available by the US Census as CSV file
 ``` r
 dlink <- 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/national/asrh/nc-est2023-alldata-p-file10.csv'
 
-
 pops <- read.csv (
   url(dlink)) |>
   filter(MONTH == '10' & YEAR == '2024') |> 
@@ -94,7 +93,9 @@ data.table::setDT(gen_pops)[gen_desc,
                             gen := i.gen]
 
 gen_pops1 <- gen_pops |> left_join(gen_desc)
+```
 
+``` r
 gen_pops1 |> 
   select(race1, yob, AGE, gen, pop) |>
   sample_n(7)  |>
@@ -103,13 +104,13 @@ gen_pops1 |>
 
 | race1                 |  yob | AGE | gen        |     pop |
 |:----------------------|-----:|----:|:-----------|--------:|
-| Two or More Races     | 1925 |  99 | Greatest   |     712 |
-| Native Hawaiian Alone | 1948 |  76 | Boomers    |    3494 |
-| Black Alone           | 1977 |  47 | Gen X      |  514558 |
-| Native Hawaiian Alone | 1990 |  34 | Millennial |   11281 |
-| Hispanic              | 2003 |  21 | Gen Z      | 1097151 |
-| Asian Alone           | 2016 |   8 | Alpha      |  244673 |
-| Black Alone           | 2017 |   7 | Alpha      |  552345 |
+| White Alone           | 2019 |   5 | Alpha      | 1811340 |
+| Black Alone           | 1982 |  42 | Millennial |  566275 |
+| Black Alone           | 2015 |   9 | Alpha      |  564264 |
+| American Indian Alone | 2006 |  18 | Gen Z      |   36129 |
+| Two or More Races     | 2009 |  15 | Gen Z      |  191574 |
+| Hispanic              | 1924 | 100 | Greatest   |    6262 |
+| Two or More Races     | 1952 |  72 | Boomers    |   29543 |
 
 ## Composition of American generations
 
@@ -138,7 +139,7 @@ gen_pops1 |>
        caption = 'SOURCE: US Census, Monthly Postcensal Resident Population, October 2024.')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 ### Population by single year of age & generation
 
@@ -188,7 +189,7 @@ gen_pops |>
   labs(title = 'American population by single-year age & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
 ### Population by single year of age, race & generation
 
@@ -228,7 +229,7 @@ gen_pops |>
   labs(title ='American population by age, race & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
 ### White America on the wane
 
@@ -281,4 +282,4 @@ gen_pops |>
   labs(title = 'American population by age, race & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-12-1.png)
