@@ -1,0 +1,708 @@
+"AGE","race","pop","race1","yob","gen","rank","start","end"
+0,"H",1003992,"Hispanic",2024,"Alpha",7,2013,2028
+0,"NHAA",193309,"Asian Alone",2024,"Alpha",7,2013,2028
+0,"NHBA",520426,"Black Alone",2024,"Alpha",7,2013,2028
+0,"NHIA",24058,"American Indian Alone",2024,"Alpha",7,2013,2028
+0,"NHNA",7990,"Native Hawaiian Alone",2024,"Alpha",7,2013,2028
+0,"NHTOM",196900,"Two or More Races",2024,"Alpha",7,2013,2028
+0,"NHWA",1704360,"White Alone",2024,"Alpha",7,2013,2028
+1,"H",1013130,"Hispanic",2023,"Alpha",7,2013,2028
+1,"NHAA",200019,"Asian Alone",2023,"Alpha",7,2013,2028
+1,"NHBA",522299,"Black Alone",2023,"Alpha",7,2013,2028
+1,"NHIA",24057,"American Indian Alone",2023,"Alpha",7,2013,2028
+1,"NHNA",8134,"Native Hawaiian Alone",2023,"Alpha",7,2013,2028
+1,"NHTOM",197455,"Two or More Races",2023,"Alpha",7,2013,2028
+1,"NHWA",1705799,"White Alone",2023,"Alpha",7,2013,2028
+2,"H",1025567,"Hispanic",2022,"Alpha",7,2013,2028
+2,"NHAA",207366,"Asian Alone",2022,"Alpha",7,2013,2028
+2,"NHBA",525326,"Black Alone",2022,"Alpha",7,2013,2028
+2,"NHIA",24165,"American Indian Alone",2022,"Alpha",7,2013,2028
+2,"NHNA",8277,"Native Hawaiian Alone",2022,"Alpha",7,2013,2028
+2,"NHTOM",199017,"Two or More Races",2022,"Alpha",7,2013,2028
+2,"NHWA",1712483,"White Alone",2022,"Alpha",7,2013,2028
+3,"H",1005313,"Hispanic",2021,"Alpha",7,2013,2028
+3,"NHAA",208854,"Asian Alone",2021,"Alpha",7,2013,2028
+3,"NHBA",525745,"Black Alone",2021,"Alpha",7,2013,2028
+3,"NHIA",24193,"American Indian Alone",2021,"Alpha",7,2013,2028
+3,"NHNA",8267,"Native Hawaiian Alone",2021,"Alpha",7,2013,2028
+3,"NHTOM",197130,"Two or More Races",2021,"Alpha",7,2013,2028
+3,"NHWA",1695740,"White Alone",2021,"Alpha",7,2013,2028
+4,"H",1004970,"Hispanic",2020,"Alpha",7,2013,2028
+4,"NHAA",218661,"Asian Alone",2020,"Alpha",7,2013,2028
+4,"NHBA",531453,"Black Alone",2020,"Alpha",7,2013,2028
+4,"NHIA",26261,"American Indian Alone",2020,"Alpha",7,2013,2028
+4,"NHNA",8438,"Native Hawaiian Alone",2020,"Alpha",7,2013,2028
+4,"NHTOM",195942,"Two or More Races",2020,"Alpha",7,2013,2028
+4,"NHWA",1753923,"White Alone",2020,"Alpha",7,2013,2028
+5,"H",1013965,"Hispanic",2019,"Alpha",7,2013,2028
+5,"NHAA",225215,"Asian Alone",2019,"Alpha",7,2013,2028
+5,"NHBA",535830,"Black Alone",2019,"Alpha",7,2013,2028
+5,"NHIA",27815,"American Indian Alone",2019,"Alpha",7,2013,2028
+5,"NHNA",8956,"Native Hawaiian Alone",2019,"Alpha",7,2013,2028
+5,"NHTOM",195703,"Two or More Races",2019,"Alpha",7,2013,2028
+5,"NHWA",1811340,"White Alone",2019,"Alpha",7,2013,2028
+6,"H",1026857,"Hispanic",2018,"Alpha",7,2013,2028
+6,"NHAA",231439,"Asian Alone",2018,"Alpha",7,2013,2028
+6,"NHBA",543615,"Black Alone",2018,"Alpha",7,2013,2028
+6,"NHIA",28073,"American Indian Alone",2018,"Alpha",7,2013,2028
+6,"NHNA",9141,"Native Hawaiian Alone",2018,"Alpha",7,2013,2028
+6,"NHTOM",198683,"Two or More Races",2018,"Alpha",7,2013,2028
+6,"NHWA",1845759,"White Alone",2018,"Alpha",7,2013,2028
+7,"H",1043856,"Hispanic",2017,"Alpha",7,2013,2028
+7,"NHAA",243509,"Asian Alone",2017,"Alpha",7,2013,2028
+7,"NHBA",552345,"Black Alone",2017,"Alpha",7,2013,2028
+7,"NHIA",29664,"American Indian Alone",2017,"Alpha",7,2013,2028
+7,"NHNA",9534,"Native Hawaiian Alone",2017,"Alpha",7,2013,2028
+7,"NHTOM",200867,"Two or More Races",2017,"Alpha",7,2013,2028
+7,"NHWA",1886699,"White Alone",2017,"Alpha",7,2013,2028
+8,"H",1071328,"Hispanic",2016,"Alpha",7,2013,2028
+8,"NHAA",244673,"Asian Alone",2016,"Alpha",7,2013,2028
+8,"NHBA",556416,"Black Alone",2016,"Alpha",7,2013,2028
+8,"NHIA",31144,"American Indian Alone",2016,"Alpha",7,2013,2028
+8,"NHNA",9501,"Native Hawaiian Alone",2016,"Alpha",7,2013,2028
+8,"NHTOM",203565,"Two or More Races",2016,"Alpha",7,2013,2028
+8,"NHWA",1966997,"White Alone",2016,"Alpha",7,2013,2028
+9,"H",1076543,"Hispanic",2015,"Alpha",7,2013,2028
+9,"NHAA",244313,"Asian Alone",2015,"Alpha",7,2013,2028
+9,"NHBA",564264,"Black Alone",2015,"Alpha",7,2013,2028
+9,"NHIA",31686,"American Indian Alone",2015,"Alpha",7,2013,2028
+9,"NHNA",9463,"Native Hawaiian Alone",2015,"Alpha",7,2013,2028
+9,"NHTOM",203426,"Two or More Races",2015,"Alpha",7,2013,2028
+9,"NHWA",1992234,"White Alone",2015,"Alpha",7,2013,2028
+10,"H",1067591,"Hispanic",2014,"Alpha",7,2013,2028
+10,"NHAA",244701,"Asian Alone",2014,"Alpha",7,2013,2028
+10,"NHBA",565806,"Black Alone",2014,"Alpha",7,2013,2028
+10,"NHIA",32448,"American Indian Alone",2014,"Alpha",7,2013,2028
+10,"NHNA",9311,"Native Hawaiian Alone",2014,"Alpha",7,2013,2028
+10,"NHTOM",201993,"Two or More Races",2014,"Alpha",7,2013,2028
+10,"NHWA",2007630,"White Alone",2014,"Alpha",7,2013,2028
+11,"H",1056476,"Hispanic",2013,"Alpha",7,2013,2028
+11,"NHAA",241788,"Asian Alone",2013,"Alpha",7,2013,2028
+11,"NHBA",564129,"Black Alone",2013,"Alpha",7,2013,2028
+11,"NHIA",32660,"American Indian Alone",2013,"Alpha",7,2013,2028
+11,"NHNA",9106,"Native Hawaiian Alone",2013,"Alpha",7,2013,2028
+11,"NHTOM",198275,"Two or More Races",2013,"Alpha",7,2013,2028
+11,"NHWA",1990222,"White Alone",2013,"Alpha",7,2013,2028
+12,"H",1065690,"Hispanic",2012,"Gen Z",6,1997,2012
+12,"NHAA",239398,"Asian Alone",2012,"Gen Z",6,1997,2012
+12,"NHBA",563984,"Black Alone",2012,"Gen Z",6,1997,2012
+12,"NHIA",32924,"American Indian Alone",2012,"Gen Z",6,1997,2012
+12,"NHNA",8972,"Native Hawaiian Alone",2012,"Gen Z",6,1997,2012
+12,"NHTOM",195437,"Two or More Races",2012,"Gen Z",6,1997,2012
+12,"NHWA",1996498,"White Alone",2012,"Gen Z",6,1997,2012
+13,"H",1090235,"Hispanic",2011,"Gen Z",6,1997,2012
+13,"NHAA",231966,"Asian Alone",2011,"Gen Z",6,1997,2012
+13,"NHBA",572722,"Black Alone",2011,"Gen Z",6,1997,2012
+13,"NHIA",33264,"American Indian Alone",2011,"Gen Z",6,1997,2012
+13,"NHNA",8807,"Native Hawaiian Alone",2011,"Gen Z",6,1997,2012
+13,"NHTOM",194829,"Two or More Races",2011,"Gen Z",6,1997,2012
+13,"NHWA",2022484,"White Alone",2011,"Gen Z",6,1997,2012
+14,"H",1118978,"Hispanic",2010,"Gen Z",6,1997,2012
+14,"NHAA",229966,"Asian Alone",2010,"Gen Z",6,1997,2012
+14,"NHBA",579918,"Black Alone",2010,"Gen Z",6,1997,2012
+14,"NHIA",34059,"American Indian Alone",2010,"Gen Z",6,1997,2012
+14,"NHNA",8777,"Native Hawaiian Alone",2010,"Gen Z",6,1997,2012
+14,"NHTOM",194621,"Two or More Races",2010,"Gen Z",6,1997,2012
+14,"NHWA",2052244,"White Alone",2010,"Gen Z",6,1997,2012
+15,"H",1132509,"Hispanic",2009,"Gen Z",6,1997,2012
+15,"NHAA",227680,"Asian Alone",2009,"Gen Z",6,1997,2012
+15,"NHBA",591896,"Black Alone",2009,"Gen Z",6,1997,2012
+15,"NHIA",35062,"American Indian Alone",2009,"Gen Z",6,1997,2012
+15,"NHNA",9139,"Native Hawaiian Alone",2009,"Gen Z",6,1997,2012
+15,"NHTOM",191574,"Two or More Races",2009,"Gen Z",6,1997,2012
+15,"NHWA",2096253,"White Alone",2009,"Gen Z",6,1997,2012
+16,"H",1177322,"Hispanic",2008,"Gen Z",6,1997,2012
+16,"NHAA",237272,"Asian Alone",2008,"Gen Z",6,1997,2012
+16,"NHBA",620669,"Black Alone",2008,"Gen Z",6,1997,2012
+16,"NHIA",36225,"American Indian Alone",2008,"Gen Z",6,1997,2012
+16,"NHNA",9202,"Native Hawaiian Alone",2008,"Gen Z",6,1997,2012
+16,"NHTOM",194180,"Two or More Races",2008,"Gen Z",6,1997,2012
+16,"NHWA",2191739,"White Alone",2008,"Gen Z",6,1997,2012
+17,"H",1190448,"Hispanic",2007,"Gen Z",6,1997,2012
+17,"NHAA",237931,"Asian Alone",2007,"Gen Z",6,1997,2012
+17,"NHBA",621653,"Black Alone",2007,"Gen Z",6,1997,2012
+17,"NHIA",36852,"American Indian Alone",2007,"Gen Z",6,1997,2012
+17,"NHNA",9288,"Native Hawaiian Alone",2007,"Gen Z",6,1997,2012
+17,"NHTOM",188718,"Two or More Races",2007,"Gen Z",6,1997,2012
+17,"NHWA",2220066,"White Alone",2007,"Gen Z",6,1997,2012
+18,"H",1161920,"Hispanic",2006,"Gen Z",6,1997,2012
+18,"NHAA",240126,"Asian Alone",2006,"Gen Z",6,1997,2012
+18,"NHBA",607160,"Black Alone",2006,"Gen Z",6,1997,2012
+18,"NHIA",36129,"American Indian Alone",2006,"Gen Z",6,1997,2012
+18,"NHNA",9173,"Native Hawaiian Alone",2006,"Gen Z",6,1997,2012
+18,"NHTOM",180435,"Two or More Races",2006,"Gen Z",6,1997,2012
+18,"NHWA",2208046,"White Alone",2006,"Gen Z",6,1997,2012
+19,"H",1136744,"Hispanic",2005,"Gen Z",6,1997,2012
+19,"NHAA",249381,"Asian Alone",2005,"Gen Z",6,1997,2012
+19,"NHBA",593559,"Black Alone",2005,"Gen Z",6,1997,2012
+19,"NHIA",35847,"American Indian Alone",2005,"Gen Z",6,1997,2012
+19,"NHNA",9615,"Native Hawaiian Alone",2005,"Gen Z",6,1997,2012
+19,"NHTOM",172537,"Two or More Races",2005,"Gen Z",6,1997,2012
+19,"NHWA",2211496,"White Alone",2005,"Gen Z",6,1997,2012
+20,"H",1112661,"Hispanic",2004,"Gen Z",6,1997,2012
+20,"NHAA",256090,"Asian Alone",2004,"Gen Z",6,1997,2012
+20,"NHBA",588293,"Black Alone",2004,"Gen Z",6,1997,2012
+20,"NHIA",35369,"American Indian Alone",2004,"Gen Z",6,1997,2012
+20,"NHNA",9501,"Native Hawaiian Alone",2004,"Gen Z",6,1997,2012
+20,"NHTOM",167156,"Two or More Races",2004,"Gen Z",6,1997,2012
+20,"NHWA",2239392,"White Alone",2004,"Gen Z",6,1997,2012
+21,"H",1097151,"Hispanic",2003,"Gen Z",6,1997,2012
+21,"NHAA",260370,"Asian Alone",2003,"Gen Z",6,1997,2012
+21,"NHBA",585909,"Black Alone",2003,"Gen Z",6,1997,2012
+21,"NHIA",34786,"American Indian Alone",2003,"Gen Z",6,1997,2012
+21,"NHNA",9421,"Native Hawaiian Alone",2003,"Gen Z",6,1997,2012
+21,"NHTOM",161282,"Two or More Races",2003,"Gen Z",6,1997,2012
+21,"NHWA",2255820,"White Alone",2003,"Gen Z",6,1997,2012
+22,"H",1084807,"Hispanic",2002,"Gen Z",6,1997,2012
+22,"NHAA",263077,"Asian Alone",2002,"Gen Z",6,1997,2012
+22,"NHBA",595203,"Black Alone",2002,"Gen Z",6,1997,2012
+22,"NHIA",35143,"American Indian Alone",2002,"Gen Z",6,1997,2012
+22,"NHNA",9313,"Native Hawaiian Alone",2002,"Gen Z",6,1997,2012
+22,"NHTOM",155244,"Two or More Races",2002,"Gen Z",6,1997,2012
+22,"NHWA",2257970,"White Alone",2002,"Gen Z",6,1997,2012
+23,"H",1072663,"Hispanic",2001,"Gen Z",6,1997,2012
+23,"NHAA",276498,"Asian Alone",2001,"Gen Z",6,1997,2012
+23,"NHBA",606603,"Black Alone",2001,"Gen Z",6,1997,2012
+23,"NHIA",35387,"American Indian Alone",2001,"Gen Z",6,1997,2012
+23,"NHNA",9065,"Native Hawaiian Alone",2001,"Gen Z",6,1997,2012
+23,"NHTOM",153177,"Two or More Races",2001,"Gen Z",6,1997,2012
+23,"NHWA",2292512,"White Alone",2001,"Gen Z",6,1997,2012
+24,"H",1066551,"Hispanic",2000,"Gen Z",6,1997,2012
+24,"NHAA",284675,"Asian Alone",2000,"Gen Z",6,1997,2012
+24,"NHBA",623254,"Black Alone",2000,"Gen Z",6,1997,2012
+24,"NHIA",36112,"American Indian Alone",2000,"Gen Z",6,1997,2012
+24,"NHNA",9221,"Native Hawaiian Alone",2000,"Gen Z",6,1997,2012
+24,"NHTOM",149764,"Two or More Races",2000,"Gen Z",6,1997,2012
+24,"NHWA",2306371,"White Alone",2000,"Gen Z",6,1997,2012
+25,"H",1033154,"Hispanic",1999,"Gen Z",6,1997,2012
+25,"NHAA",278946,"Asian Alone",1999,"Gen Z",6,1997,2012
+25,"NHBA",606302,"Black Alone",1999,"Gen Z",6,1997,2012
+25,"NHIA",35832,"American Indian Alone",1999,"Gen Z",6,1997,2012
+25,"NHNA",9054,"Native Hawaiian Alone",1999,"Gen Z",6,1997,2012
+25,"NHTOM",144709,"Two or More Races",1999,"Gen Z",6,1997,2012
+25,"NHWA",2283546,"White Alone",1999,"Gen Z",6,1997,2012
+26,"H",1021330,"Hispanic",1998,"Gen Z",6,1997,2012
+26,"NHAA",287314,"Asian Alone",1998,"Gen Z",6,1997,2012
+26,"NHBA",611473,"Black Alone",1998,"Gen Z",6,1997,2012
+26,"NHIA",35556,"American Indian Alone",1998,"Gen Z",6,1997,2012
+26,"NHNA",9083,"Native Hawaiian Alone",1998,"Gen Z",6,1997,2012
+26,"NHTOM",142060,"Two or More Races",1998,"Gen Z",6,1997,2012
+26,"NHWA",2288948,"White Alone",1998,"Gen Z",6,1997,2012
+27,"H",1006243,"Hispanic",1997,"Gen Z",6,1997,2012
+27,"NHAA",298524,"Asian Alone",1997,"Gen Z",6,1997,2012
+27,"NHBA",606289,"Black Alone",1997,"Gen Z",6,1997,2012
+27,"NHIA",34999,"American Indian Alone",1997,"Gen Z",6,1997,2012
+27,"NHNA",9024,"Native Hawaiian Alone",1997,"Gen Z",6,1997,2012
+27,"NHTOM",135760,"Two or More Races",1997,"Gen Z",6,1997,2012
+27,"NHWA",2281088,"White Alone",1997,"Gen Z",6,1997,2012
+28,"H",1000678,"Hispanic",1996,"Millennial",5,1981,1996
+28,"NHAA",311116,"Asian Alone",1996,"Millennial",5,1981,1996
+28,"NHBA",607564,"Black Alone",1996,"Millennial",5,1981,1996
+28,"NHIA",34809,"American Indian Alone",1996,"Millennial",5,1981,1996
+28,"NHNA",9265,"Native Hawaiian Alone",1996,"Millennial",5,1981,1996
+28,"NHTOM",133078,"Two or More Races",1996,"Millennial",5,1981,1996
+28,"NHWA",2305580,"White Alone",1996,"Millennial",5,1981,1996
+29,"H",1007319,"Hispanic",1995,"Millennial",5,1981,1996
+29,"NHAA",319004,"Asian Alone",1995,"Millennial",5,1981,1996
+29,"NHBA",631920,"Black Alone",1995,"Millennial",5,1981,1996
+29,"NHIA",35816,"American Indian Alone",1995,"Millennial",5,1981,1996
+29,"NHNA",9701,"Native Hawaiian Alone",1995,"Millennial",5,1981,1996
+29,"NHTOM",130242,"Two or More Races",1995,"Millennial",5,1981,1996
+29,"NHWA",2342686,"White Alone",1995,"Millennial",5,1981,1996
+30,"H",1004827,"Hispanic",1994,"Millennial",5,1981,1996
+30,"NHAA",326612,"Asian Alone",1994,"Millennial",5,1981,1996
+30,"NHBA",659916,"Black Alone",1994,"Millennial",5,1981,1996
+30,"NHIA",36174,"American Indian Alone",1994,"Millennial",5,1981,1996
+30,"NHNA",9847,"Native Hawaiian Alone",1994,"Millennial",5,1981,1996
+30,"NHTOM",127024,"Two or More Races",1994,"Millennial",5,1981,1996
+30,"NHWA",2365408,"White Alone",1994,"Millennial",5,1981,1996
+31,"H",1015118,"Hispanic",1993,"Millennial",5,1981,1996
+31,"NHAA",337289,"Asian Alone",1993,"Millennial",5,1981,1996
+31,"NHBA",687748,"Black Alone",1993,"Millennial",5,1981,1996
+31,"NHIA",38144,"American Indian Alone",1993,"Millennial",5,1981,1996
+31,"NHNA",10100,"Native Hawaiian Alone",1993,"Millennial",5,1981,1996
+31,"NHTOM",122186,"Two or More Races",1993,"Millennial",5,1981,1996
+31,"NHWA",2420859,"White Alone",1993,"Millennial",5,1981,1996
+32,"H",1025312,"Hispanic",1992,"Millennial",5,1981,1996
+32,"NHAA",347505,"Asian Alone",1992,"Millennial",5,1981,1996
+32,"NHBA",697830,"Black Alone",1992,"Millennial",5,1981,1996
+32,"NHIA",39644,"American Indian Alone",1992,"Millennial",5,1981,1996
+32,"NHNA",10214,"Native Hawaiian Alone",1992,"Millennial",5,1981,1996
+32,"NHTOM",119587,"Two or More Races",1992,"Millennial",5,1981,1996
+32,"NHWA",2474490,"White Alone",1992,"Millennial",5,1981,1996
+33,"H",1014762,"Hispanic",1991,"Millennial",5,1981,1996
+33,"NHAA",363295,"Asian Alone",1991,"Millennial",5,1981,1996
+33,"NHBA",710970,"Black Alone",1991,"Millennial",5,1981,1996
+33,"NHIA",39576,"American Indian Alone",1991,"Millennial",5,1981,1996
+33,"NHNA",11114,"Native Hawaiian Alone",1991,"Millennial",5,1981,1996
+33,"NHTOM",115508,"Two or More Races",1991,"Millennial",5,1981,1996
+33,"NHWA",2543998,"White Alone",1991,"Millennial",5,1981,1996
+34,"H",1009960,"Hispanic",1990,"Millennial",5,1981,1996
+34,"NHAA",372084,"Asian Alone",1990,"Millennial",5,1981,1996
+34,"NHBA",703459,"Black Alone",1990,"Millennial",5,1981,1996
+34,"NHIA",38768,"American Indian Alone",1990,"Millennial",5,1981,1996
+34,"NHNA",11281,"Native Hawaiian Alone",1990,"Millennial",5,1981,1996
+34,"NHTOM",108618,"Two or More Races",1990,"Millennial",5,1981,1996
+34,"NHWA",2588549,"White Alone",1990,"Millennial",5,1981,1996
+35,"H",965339,"Hispanic",1989,"Millennial",5,1981,1996
+35,"NHAA",373980,"Asian Alone",1989,"Millennial",5,1981,1996
+35,"NHBA",673866,"Black Alone",1989,"Millennial",5,1981,1996
+35,"NHIA",37036,"American Indian Alone",1989,"Millennial",5,1981,1996
+35,"NHNA",11092,"Native Hawaiian Alone",1989,"Millennial",5,1981,1996
+35,"NHTOM",100988,"Two or More Races",1989,"Millennial",5,1981,1996
+35,"NHWA",2532240,"White Alone",1989,"Millennial",5,1981,1996
+36,"H",962698,"Hispanic",1988,"Millennial",5,1981,1996
+36,"NHAA",369235,"Asian Alone",1988,"Millennial",5,1981,1996
+36,"NHBA",639373,"Black Alone",1988,"Millennial",5,1981,1996
+36,"NHIA",35816,"American Indian Alone",1988,"Millennial",5,1981,1996
+36,"NHNA",11012,"Native Hawaiian Alone",1988,"Millennial",5,1981,1996
+36,"NHTOM",95395,"Two or More Races",1988,"Millennial",5,1981,1996
+36,"NHWA",2512897,"White Alone",1988,"Millennial",5,1981,1996
+37,"H",944528,"Hispanic",1987,"Millennial",5,1981,1996
+37,"NHAA",360928,"Asian Alone",1987,"Millennial",5,1981,1996
+37,"NHBA",607206,"Black Alone",1987,"Millennial",5,1981,1996
+37,"NHIA",34065,"American Indian Alone",1987,"Millennial",5,1981,1996
+37,"NHNA",10796,"Native Hawaiian Alone",1987,"Millennial",5,1981,1996
+37,"NHTOM",90007,"Two or More Races",1987,"Millennial",5,1981,1996
+37,"NHWA",2475205,"White Alone",1987,"Millennial",5,1981,1996
+38,"H",948671,"Hispanic",1986,"Millennial",5,1981,1996
+38,"NHAA",358840,"Asian Alone",1986,"Millennial",5,1981,1996
+38,"NHBA",593144,"Black Alone",1986,"Millennial",5,1981,1996
+38,"NHIA",33474,"American Indian Alone",1986,"Millennial",5,1981,1996
+38,"NHNA",10893,"Native Hawaiian Alone",1986,"Millennial",5,1981,1996
+38,"NHTOM",86008,"Two or More Races",1986,"Millennial",5,1981,1996
+38,"NHWA",2499993,"White Alone",1986,"Millennial",5,1981,1996
+39,"H",949936,"Hispanic",1985,"Millennial",5,1981,1996
+39,"NHAA",357788,"Asian Alone",1985,"Millennial",5,1981,1996
+39,"NHBA",585968,"Black Alone",1985,"Millennial",5,1981,1996
+39,"NHIA",32497,"American Indian Alone",1985,"Millennial",5,1981,1996
+39,"NHNA",10909,"Native Hawaiian Alone",1985,"Millennial",5,1981,1996
+39,"NHTOM",83360,"Two or More Races",1985,"Millennial",5,1981,1996
+39,"NHWA",2511167,"White Alone",1985,"Millennial",5,1981,1996
+40,"H",933599,"Hispanic",1984,"Millennial",5,1981,1996
+40,"NHAA",356401,"Asian Alone",1984,"Millennial",5,1981,1996
+40,"NHBA",566679,"Black Alone",1984,"Millennial",5,1981,1996
+40,"NHIA",32019,"American Indian Alone",1984,"Millennial",5,1981,1996
+40,"NHNA",10354,"Native Hawaiian Alone",1984,"Millennial",5,1981,1996
+40,"NHTOM",79834,"Two or More Races",1984,"Millennial",5,1981,1996
+40,"NHWA",2467813,"White Alone",1984,"Millennial",5,1981,1996
+41,"H",936367,"Hispanic",1983,"Millennial",5,1981,1996
+41,"NHAA",352788,"Asian Alone",1983,"Millennial",5,1981,1996
+41,"NHBA",563380,"Black Alone",1983,"Millennial",5,1981,1996
+41,"NHIA",31948,"American Indian Alone",1983,"Millennial",5,1981,1996
+41,"NHNA",10592,"Native Hawaiian Alone",1983,"Millennial",5,1981,1996
+41,"NHTOM",78780,"Two or More Races",1983,"Millennial",5,1981,1996
+41,"NHWA",2478074,"White Alone",1983,"Millennial",5,1981,1996
+42,"H",948820,"Hispanic",1982,"Millennial",5,1981,1996
+42,"NHAA",350274,"Asian Alone",1982,"Millennial",5,1981,1996
+42,"NHBA",566275,"Black Alone",1982,"Millennial",5,1981,1996
+42,"NHIA",31647,"American Indian Alone",1982,"Millennial",5,1981,1996
+42,"NHNA",10517,"Native Hawaiian Alone",1982,"Millennial",5,1981,1996
+42,"NHTOM",77680,"Two or More Races",1982,"Millennial",5,1981,1996
+42,"NHWA",2497194,"White Alone",1982,"Millennial",5,1981,1996
+43,"H",921442,"Hispanic",1981,"Millennial",5,1981,1996
+43,"NHAA",333363,"Asian Alone",1981,"Millennial",5,1981,1996
+43,"NHBA",554872,"Black Alone",1981,"Millennial",5,1981,1996
+43,"NHIA",30608,"American Indian Alone",1981,"Millennial",5,1981,1996
+43,"NHNA",9853,"Native Hawaiian Alone",1981,"Millennial",5,1981,1996
+43,"NHTOM",75081,"Two or More Races",1981,"Millennial",5,1981,1996
+43,"NHWA",2472976,"White Alone",1981,"Millennial",5,1981,1996
+44,"H",936060,"Hispanic",1980,"Gen X",4,1965,1980
+44,"NHAA",327443,"Asian Alone",1980,"Gen X",4,1965,1980
+44,"NHBA",569564,"Black Alone",1980,"Gen X",4,1965,1980
+44,"NHIA",30931,"American Indian Alone",1980,"Gen X",4,1965,1980
+44,"NHNA",10008,"Native Hawaiian Alone",1980,"Gen X",4,1965,1980
+44,"NHTOM",74368,"Two or More Races",1980,"Gen X",4,1965,1980
+44,"NHWA",2467053,"White Alone",1980,"Gen X",4,1965,1980
+45,"H",881136,"Hispanic",1979,"Gen X",4,1965,1980
+45,"NHAA",316507,"Asian Alone",1979,"Gen X",4,1965,1980
+45,"NHBA",544240,"Black Alone",1979,"Gen X",4,1965,1980
+45,"NHIA",29314,"American Indian Alone",1979,"Gen X",4,1965,1980
+45,"NHNA",9127,"Native Hawaiian Alone",1979,"Gen X",4,1965,1980
+45,"NHTOM",68962,"Two or More Races",1979,"Gen X",4,1965,1980
+45,"NHWA",2379086,"White Alone",1979,"Gen X",4,1965,1980
+46,"H",863610,"Hispanic",1978,"Gen X",4,1965,1980
+46,"NHAA",307064,"Asian Alone",1978,"Gen X",4,1965,1980
+46,"NHBA",523401,"Black Alone",1978,"Gen X",4,1965,1980
+46,"NHIA",28131,"American Indian Alone",1978,"Gen X",4,1965,1980
+46,"NHNA",8705,"Native Hawaiian Alone",1978,"Gen X",4,1965,1980
+46,"NHTOM",65563,"Two or More Races",1978,"Gen X",4,1965,1980
+46,"NHWA",2318105,"White Alone",1978,"Gen X",4,1965,1980
+47,"H",857124,"Hispanic",1977,"Gen X",4,1965,1980
+47,"NHAA",300906,"Asian Alone",1977,"Gen X",4,1965,1980
+47,"NHBA",514558,"Black Alone",1977,"Gen X",4,1965,1980
+47,"NHIA",28662,"American Indian Alone",1977,"Gen X",4,1965,1980
+47,"NHNA",8567,"Native Hawaiian Alone",1977,"Gen X",4,1965,1980
+47,"NHTOM",63438,"Two or More Races",1977,"Gen X",4,1965,1980
+47,"NHWA",2300932,"White Alone",1977,"Gen X",4,1965,1980
+48,"H",832206,"Hispanic",1976,"Gen X",4,1965,1980
+48,"NHAA",299405,"Asian Alone",1976,"Gen X",4,1965,1980
+48,"NHBA",486857,"Black Alone",1976,"Gen X",4,1965,1980
+48,"NHIA",27119,"American Indian Alone",1976,"Gen X",4,1965,1980
+48,"NHNA",8143,"Native Hawaiian Alone",1976,"Gen X",4,1965,1980
+48,"NHTOM",59753,"Two or More Races",1976,"Gen X",4,1965,1980
+48,"NHWA",2190113,"White Alone",1976,"Gen X",4,1965,1980
+49,"H",820879,"Hispanic",1975,"Gen X",4,1965,1980
+49,"NHAA",300804,"Asian Alone",1975,"Gen X",4,1965,1980
+49,"NHBA",489173,"Black Alone",1975,"Gen X",4,1965,1980
+49,"NHIA",26962,"American Indian Alone",1975,"Gen X",4,1965,1980
+49,"NHNA",7936,"Native Hawaiian Alone",1975,"Gen X",4,1965,1980
+49,"NHTOM",57110,"Two or More Races",1975,"Gen X",4,1965,1980
+49,"NHWA",2212520,"White Alone",1975,"Gen X",4,1965,1980
+50,"H",800047,"Hispanic",1974,"Gen X",4,1965,1980
+50,"NHAA",297375,"Asian Alone",1974,"Gen X",4,1965,1980
+50,"NHBA",482805,"Black Alone",1974,"Gen X",4,1965,1980
+50,"NHIA",26567,"American Indian Alone",1974,"Gen X",4,1965,1980
+50,"NHNA",7767,"Native Hawaiian Alone",1974,"Gen X",4,1965,1980
+50,"NHTOM",55197,"Two or More Races",1974,"Gen X",4,1965,1980
+50,"NHWA",2199008,"White Alone",1974,"Gen X",4,1965,1980
+51,"H",777425,"Hispanic",1973,"Gen X",4,1965,1980
+51,"NHAA",295861,"Asian Alone",1973,"Gen X",4,1965,1980
+51,"NHBA",487982,"Black Alone",1973,"Gen X",4,1965,1980
+51,"NHIA",26593,"American Indian Alone",1973,"Gen X",4,1965,1980
+51,"NHNA",7602,"Native Hawaiian Alone",1973,"Gen X",4,1965,1980
+51,"NHTOM",54569,"Two or More Races",1973,"Gen X",4,1965,1980
+51,"NHWA",2221896,"White Alone",1973,"Gen X",4,1965,1980
+52,"H",773323,"Hispanic",1972,"Gen X",4,1965,1980
+52,"NHAA",296886,"Asian Alone",1972,"Gen X",4,1965,1980
+52,"NHBA",506944,"Black Alone",1972,"Gen X",4,1965,1980
+52,"NHIA",27332,"American Indian Alone",1972,"Gen X",4,1965,1980
+52,"NHNA",7618,"Native Hawaiian Alone",1972,"Gen X",4,1965,1980
+52,"NHTOM",54717,"Two or More Races",1972,"Gen X",4,1965,1980
+52,"NHWA",2352415,"White Alone",1972,"Gen X",4,1965,1980
+53,"H",766393,"Hispanic",1971,"Gen X",4,1965,1980
+53,"NHAA",287717,"Asian Alone",1971,"Gen X",4,1965,1980
+53,"NHBA",528981,"Black Alone",1971,"Gen X",4,1965,1980
+53,"NHIA",28620,"American Indian Alone",1971,"Gen X",4,1965,1980
+53,"NHNA",7659,"Native Hawaiian Alone",1971,"Gen X",4,1965,1980
+53,"NHTOM",56151,"Two or More Races",1971,"Gen X",4,1965,1980
+53,"NHWA",2580852,"White Alone",1971,"Gen X",4,1965,1980
+54,"H",748499,"Hispanic",1970,"Gen X",4,1965,1980
+54,"NHAA",284701,"Asian Alone",1970,"Gen X",4,1965,1980
+54,"NHBA",528365,"Black Alone",1970,"Gen X",4,1965,1980
+54,"NHIA",28903,"American Indian Alone",1970,"Gen X",4,1965,1980
+54,"NHNA",7742,"Native Hawaiian Alone",1970,"Gen X",4,1965,1980
+54,"NHTOM",55758,"Two or More Races",1970,"Gen X",4,1965,1980
+54,"NHWA",2644203,"White Alone",1970,"Gen X",4,1965,1980
+55,"H",709034,"Hispanic",1969,"Gen X",4,1965,1980
+55,"NHAA",268697,"Asian Alone",1969,"Gen X",4,1965,1980
+55,"NHBA",492397,"Black Alone",1969,"Gen X",4,1965,1980
+55,"NHIA",27486,"American Indian Alone",1969,"Gen X",4,1965,1980
+55,"NHNA",7537,"Native Hawaiian Alone",1969,"Gen X",4,1965,1980
+55,"NHTOM",50900,"Two or More Races",1969,"Gen X",4,1965,1980
+55,"NHWA",2547274,"White Alone",1969,"Gen X",4,1965,1980
+56,"H",682054,"Hispanic",1968,"Gen X",4,1965,1980
+56,"NHAA",262039,"Asian Alone",1968,"Gen X",4,1965,1980
+56,"NHBA",485094,"Black Alone",1968,"Gen X",4,1965,1980
+56,"NHIA",27033,"American Indian Alone",1968,"Gen X",4,1965,1980
+56,"NHNA",6924,"Native Hawaiian Alone",1968,"Gen X",4,1965,1980
+56,"NHTOM",47914,"Two or More Races",1968,"Gen X",4,1965,1980
+56,"NHWA",2478640,"White Alone",1968,"Gen X",4,1965,1980
+57,"H",657688,"Hispanic",1967,"Gen X",4,1965,1980
+57,"NHAA",240979,"Asian Alone",1967,"Gen X",4,1965,1980
+57,"NHBA",483998,"Black Alone",1967,"Gen X",4,1965,1980
+57,"NHIA",27223,"American Indian Alone",1967,"Gen X",4,1965,1980
+57,"NHNA",7076,"Native Hawaiian Alone",1967,"Gen X",4,1965,1980
+57,"NHTOM",46016,"Two or More Races",1967,"Gen X",4,1965,1980
+57,"NHWA",2509434,"White Alone",1967,"Gen X",4,1965,1980
+58,"H",642897,"Hispanic",1966,"Gen X",4,1965,1980
+58,"NHAA",237419,"Asian Alone",1966,"Gen X",4,1965,1980
+58,"NHBA",493603,"Black Alone",1966,"Gen X",4,1965,1980
+58,"NHIA",27460,"American Indian Alone",1966,"Gen X",4,1965,1980
+58,"NHNA",7166,"Native Hawaiian Alone",1966,"Gen X",4,1965,1980
+58,"NHTOM",45145,"Two or More Races",1966,"Gen X",4,1965,1980
+58,"NHWA",2537826,"White Alone",1966,"Gen X",4,1965,1980
+59,"H",637214,"Hispanic",1965,"Gen X",4,1965,1980
+59,"NHAA",238894,"Asian Alone",1965,"Gen X",4,1965,1980
+59,"NHBA",508666,"Black Alone",1965,"Gen X",4,1965,1980
+59,"NHIA",29121,"American Indian Alone",1965,"Gen X",4,1965,1980
+59,"NHNA",7350,"Native Hawaiian Alone",1965,"Gen X",4,1965,1980
+59,"NHTOM",46335,"Two or More Races",1965,"Gen X",4,1965,1980
+59,"NHWA",2669605,"White Alone",1965,"Gen X",4,1965,1980
+60,"H",613694,"Hispanic",1964,"Boomers",3,1946,1964
+60,"NHAA",239411,"Asian Alone",1964,"Boomers",3,1946,1964
+60,"NHBA",511177,"Black Alone",1964,"Boomers",3,1946,1964
+60,"NHIA",29876,"American Indian Alone",1964,"Boomers",3,1946,1964
+60,"NHNA",7188,"Native Hawaiian Alone",1964,"Boomers",3,1946,1964
+60,"NHTOM",46776,"Two or More Races",1964,"Boomers",3,1946,1964
+60,"NHWA",2806042,"White Alone",1964,"Boomers",3,1946,1964
+61,"H",589407,"Hispanic",1963,"Boomers",3,1946,1964
+61,"NHAA",243008,"Asian Alone",1963,"Boomers",3,1946,1964
+61,"NHBA",501880,"Black Alone",1963,"Boomers",3,1946,1964
+61,"NHIA",29710,"American Indian Alone",1963,"Boomers",3,1946,1964
+61,"NHNA",6940,"Native Hawaiian Alone",1963,"Boomers",3,1946,1964
+61,"NHTOM",46613,"Two or More Races",1963,"Boomers",3,1946,1964
+61,"NHWA",2843489,"White Alone",1963,"Boomers",3,1946,1964
+62,"H",565872,"Hispanic",1962,"Boomers",3,1946,1964
+62,"NHAA",228338,"Asian Alone",1962,"Boomers",3,1946,1964
+62,"NHBA",495287,"Black Alone",1962,"Boomers",3,1946,1964
+62,"NHIA",29440,"American Indian Alone",1962,"Boomers",3,1946,1964
+62,"NHNA",7110,"Native Hawaiian Alone",1962,"Boomers",3,1946,1964
+62,"NHTOM",46257,"Two or More Races",1962,"Boomers",3,1946,1964
+62,"NHWA",2881099,"White Alone",1962,"Boomers",3,1946,1964
+63,"H",534069,"Hispanic",1961,"Boomers",3,1946,1964
+63,"NHAA",213616,"Asian Alone",1961,"Boomers",3,1946,1964
+63,"NHBA",484954,"Black Alone",1961,"Boomers",3,1946,1964
+63,"NHIA",29849,"American Indian Alone",1961,"Boomers",3,1946,1964
+63,"NHNA",6655,"Native Hawaiian Alone",1961,"Boomers",3,1946,1964
+63,"NHTOM",45553,"Two or More Races",1961,"Boomers",3,1946,1964
+63,"NHWA",2920956,"White Alone",1961,"Boomers",3,1946,1964
+64,"H",524325,"Hispanic",1960,"Boomers",3,1946,1964
+64,"NHAA",221553,"Asian Alone",1960,"Boomers",3,1946,1964
+64,"NHBA",485906,"Black Alone",1960,"Boomers",3,1946,1964
+64,"NHIA",29503,"American Indian Alone",1960,"Boomers",3,1946,1964
+64,"NHNA",6747,"Native Hawaiian Alone",1960,"Boomers",3,1946,1964
+64,"NHTOM",44788,"Two or More Races",1960,"Boomers",3,1946,1964
+64,"NHWA",2882869,"White Alone",1960,"Boomers",3,1946,1964
+65,"H",480064,"Hispanic",1959,"Boomers",3,1946,1964
+65,"NHAA",207654,"Asian Alone",1959,"Boomers",3,1946,1964
+65,"NHBA",467119,"Black Alone",1959,"Boomers",3,1946,1964
+65,"NHIA",28237,"American Indian Alone",1959,"Boomers",3,1946,1964
+65,"NHNA",6321,"Native Hawaiian Alone",1959,"Boomers",3,1946,1964
+65,"NHTOM",42868,"Two or More Races",1959,"Boomers",3,1946,1964
+65,"NHWA",2849166,"White Alone",1959,"Boomers",3,1946,1964
+66,"H",449278,"Hispanic",1958,"Boomers",3,1946,1964
+66,"NHAA",208314,"Asian Alone",1958,"Boomers",3,1946,1964
+66,"NHBA",447264,"Black Alone",1958,"Boomers",3,1946,1964
+66,"NHIA",26979,"American Indian Alone",1958,"Boomers",3,1946,1964
+66,"NHNA",6061,"Native Hawaiian Alone",1958,"Boomers",3,1946,1964
+66,"NHTOM",40801,"Two or More Races",1958,"Boomers",3,1946,1964
+66,"NHWA",2826485,"White Alone",1958,"Boomers",3,1946,1964
+67,"H",433968,"Hispanic",1957,"Boomers",3,1946,1964
+67,"NHAA",202751,"Asian Alone",1957,"Boomers",3,1946,1964
+67,"NHBA",436397,"Black Alone",1957,"Boomers",3,1946,1964
+67,"NHIA",26665,"American Indian Alone",1957,"Boomers",3,1946,1964
+67,"NHNA",5784,"Native Hawaiian Alone",1957,"Boomers",3,1946,1964
+67,"NHTOM",39923,"Two or More Races",1957,"Boomers",3,1946,1964
+67,"NHWA",2809647,"White Alone",1957,"Boomers",3,1946,1964
+68,"H",407288,"Hispanic",1956,"Boomers",3,1946,1964
+68,"NHAA",197562,"Asian Alone",1956,"Boomers",3,1946,1964
+68,"NHBA",413821,"Black Alone",1956,"Boomers",3,1946,1964
+68,"NHIA",25433,"American Indian Alone",1956,"Boomers",3,1946,1964
+68,"NHNA",5583,"Native Hawaiian Alone",1956,"Boomers",3,1946,1964
+68,"NHTOM",38139,"Two or More Races",1956,"Boomers",3,1946,1964
+68,"NHWA",2707057,"White Alone",1956,"Boomers",3,1946,1964
+69,"H",388656,"Hispanic",1955,"Boomers",3,1946,1964
+69,"NHAA",193600,"Asian Alone",1955,"Boomers",3,1946,1964
+69,"NHBA",388911,"Black Alone",1955,"Boomers",3,1946,1964
+69,"NHIA",24229,"American Indian Alone",1955,"Boomers",3,1946,1964
+69,"NHNA",5373,"Native Hawaiian Alone",1955,"Boomers",3,1946,1964
+69,"NHTOM",36069,"Two or More Races",1955,"Boomers",3,1946,1964
+69,"NHWA",2632226,"White Alone",1955,"Boomers",3,1946,1964
+70,"H",358328,"Hispanic",1954,"Boomers",3,1946,1964
+70,"NHAA",183528,"Asian Alone",1954,"Boomers",3,1946,1964
+70,"NHBA",367429,"Black Alone",1954,"Boomers",3,1946,1964
+70,"NHIA",23110,"American Indian Alone",1954,"Boomers",3,1946,1964
+70,"NHNA",4941,"Native Hawaiian Alone",1954,"Boomers",3,1946,1964
+70,"NHTOM",34045,"Two or More Races",1954,"Boomers",3,1946,1964
+70,"NHWA",2566966,"White Alone",1954,"Boomers",3,1946,1964
+71,"H",329354,"Hispanic",1953,"Boomers",3,1946,1964
+71,"NHAA",171729,"Asian Alone",1953,"Boomers",3,1946,1964
+71,"NHBA",338652,"Black Alone",1953,"Boomers",3,1946,1964
+71,"NHIA",21493,"American Indian Alone",1953,"Boomers",3,1946,1964
+71,"NHNA",4587,"Native Hawaiian Alone",1953,"Boomers",3,1946,1964
+71,"NHTOM",31971,"Two or More Races",1953,"Boomers",3,1946,1964
+71,"NHWA",2464243,"White Alone",1953,"Boomers",3,1946,1964
+72,"H",306505,"Hispanic",1952,"Boomers",3,1946,1964
+72,"NHAA",167170,"Asian Alone",1952,"Boomers",3,1946,1964
+72,"NHBA",318857,"Black Alone",1952,"Boomers",3,1946,1964
+72,"NHIA",20283,"American Indian Alone",1952,"Boomers",3,1946,1964
+72,"NHNA",4443,"Native Hawaiian Alone",1952,"Boomers",3,1946,1964
+72,"NHTOM",29543,"Two or More Races",1952,"Boomers",3,1946,1964
+72,"NHWA",2396702,"White Alone",1952,"Boomers",3,1946,1964
+73,"H",287675,"Hispanic",1951,"Boomers",3,1946,1964
+73,"NHAA",152429,"Asian Alone",1951,"Boomers",3,1946,1964
+73,"NHBA",302038,"Black Alone",1951,"Boomers",3,1946,1964
+73,"NHIA",19144,"American Indian Alone",1951,"Boomers",3,1946,1964
+73,"NHNA",3953,"Native Hawaiian Alone",1951,"Boomers",3,1946,1964
+73,"NHTOM",27712,"Two or More Races",1951,"Boomers",3,1946,1964
+73,"NHWA",2261832,"White Alone",1951,"Boomers",3,1946,1964
+74,"H",271982,"Hispanic",1950,"Boomers",3,1946,1964
+74,"NHAA",155096,"Asian Alone",1950,"Boomers",3,1946,1964
+74,"NHBA",285816,"Black Alone",1950,"Boomers",3,1946,1964
+74,"NHIA",18297,"American Indian Alone",1950,"Boomers",3,1946,1964
+74,"NHNA",3830,"Native Hawaiian Alone",1950,"Boomers",3,1946,1964
+74,"NHTOM",26523,"Two or More Races",1950,"Boomers",3,1946,1964
+74,"NHWA",2116025,"White Alone",1950,"Boomers",3,1946,1964
+75,"H",250090,"Hispanic",1949,"Boomers",3,1946,1964
+75,"NHAA",145185,"Asian Alone",1949,"Boomers",3,1946,1964
+75,"NHBA",263012,"Black Alone",1949,"Boomers",3,1946,1964
+75,"NHIA",17291,"American Indian Alone",1949,"Boomers",3,1946,1964
+75,"NHNA",3789,"Native Hawaiian Alone",1949,"Boomers",3,1946,1964
+75,"NHTOM",24907,"Two or More Races",1949,"Boomers",3,1946,1964
+75,"NHWA",2066235,"White Alone",1949,"Boomers",3,1946,1964
+76,"H",233634,"Hispanic",1948,"Boomers",3,1946,1964
+76,"NHAA",135116,"Asian Alone",1948,"Boomers",3,1946,1964
+76,"NHBA",245755,"Black Alone",1948,"Boomers",3,1946,1964
+76,"NHIA",16322,"American Indian Alone",1948,"Boomers",3,1946,1964
+76,"NHNA",3494,"Native Hawaiian Alone",1948,"Boomers",3,1946,1964
+76,"NHTOM",23255,"Two or More Races",1948,"Boomers",3,1946,1964
+76,"NHWA",2020270,"White Alone",1948,"Boomers",3,1946,1964
+77,"H",223587,"Hispanic",1947,"Boomers",3,1946,1964
+77,"NHAA",125717,"Asian Alone",1947,"Boomers",3,1946,1964
+77,"NHBA",230936,"Black Alone",1947,"Boomers",3,1946,1964
+77,"NHIA",16163,"American Indian Alone",1947,"Boomers",3,1946,1964
+77,"NHNA",3209,"Native Hawaiian Alone",1947,"Boomers",3,1946,1964
+77,"NHTOM",23846,"Two or More Races",1947,"Boomers",3,1946,1964
+77,"NHWA",2165783,"White Alone",1947,"Boomers",3,1946,1964
+78,"H",190282,"Hispanic",1946,"Boomers",3,1946,1964
+78,"NHAA",107544,"Asian Alone",1946,"Boomers",3,1946,1964
+78,"NHBA",178129,"Black Alone",1946,"Boomers",3,1946,1964
+78,"NHIA",12574,"American Indian Alone",1946,"Boomers",3,1946,1964
+78,"NHNA",2801,"Native Hawaiian Alone",1946,"Boomers",3,1946,1964
+78,"NHTOM",18663,"Two or More Races",1946,"Boomers",3,1946,1964
+78,"NHWA",1598298,"White Alone",1946,"Boomers",3,1946,1964
+79,"H",170352,"Hispanic",1945,"Silent",2,1928,1945
+79,"NHAA",94600,"Asian Alone",1945,"Silent",2,1928,1945
+79,"NHBA",160662,"Black Alone",1945,"Silent",2,1928,1945
+79,"NHIA",11158,"American Indian Alone",1945,"Silent",2,1928,1945
+79,"NHNA",2448,"Native Hawaiian Alone",1945,"Silent",2,1928,1945
+79,"NHTOM",16205,"Two or More Races",1945,"Silent",2,1928,1945
+79,"NHWA",1375534,"White Alone",1945,"Silent",2,1928,1945
+80,"H",153652,"Hispanic",1944,"Silent",2,1928,1945
+80,"NHAA",88165,"Asian Alone",1944,"Silent",2,1928,1945
+80,"NHBA",147751,"Black Alone",1944,"Silent",2,1928,1945
+80,"NHIA",10332,"American Indian Alone",1944,"Silent",2,1928,1945
+80,"NHNA",2192,"Native Hawaiian Alone",1944,"Silent",2,1928,1945
+80,"NHTOM",15594,"Two or More Races",1944,"Silent",2,1928,1945
+80,"NHWA",1326673,"White Alone",1944,"Silent",2,1928,1945
+81,"H",143350,"Hispanic",1943,"Silent",2,1928,1945
+81,"NHAA",78452,"Asian Alone",1943,"Silent",2,1928,1945
+81,"NHBA",140238,"Black Alone",1943,"Silent",2,1928,1945
+81,"NHIA",9815,"American Indian Alone",1943,"Silent",2,1928,1945
+81,"NHNA",1952,"Native Hawaiian Alone",1943,"Silent",2,1928,1945
+81,"NHTOM",14618,"Two or More Races",1943,"Silent",2,1928,1945
+81,"NHWA",1358647,"White Alone",1943,"Silent",2,1928,1945
+82,"H",126193,"Hispanic",1942,"Silent",2,1928,1945
+82,"NHAA",74392,"Asian Alone",1942,"Silent",2,1928,1945
+82,"NHBA",122258,"Black Alone",1942,"Silent",2,1928,1945
+82,"NHIA",8642,"American Indian Alone",1942,"Silent",2,1928,1945
+82,"NHNA",1689,"Native Hawaiian Alone",1942,"Silent",2,1928,1945
+82,"NHTOM",12828,"Two or More Races",1942,"Silent",2,1928,1945
+82,"NHWA",1137642,"White Alone",1942,"Silent",2,1928,1945
+83,"H",112110,"Hispanic",1941,"Silent",2,1928,1945
+83,"NHAA",65377,"Asian Alone",1941,"Silent",2,1928,1945
+83,"NHBA",107047,"Black Alone",1941,"Silent",2,1928,1945
+83,"NHIA",7723,"American Indian Alone",1941,"Silent",2,1928,1945
+83,"NHNA",1481,"Native Hawaiian Alone",1941,"Silent",2,1928,1945
+83,"NHTOM",11295,"Two or More Races",1941,"Silent",2,1928,1945
+83,"NHWA",983264,"White Alone",1941,"Silent",2,1928,1945
+84,"H",103852,"Hispanic",1940,"Silent",2,1928,1945
+84,"NHAA",61300,"Asian Alone",1940,"Silent",2,1928,1945
+84,"NHBA",97436,"Black Alone",1940,"Silent",2,1928,1945
+84,"NHIA",6936,"American Indian Alone",1940,"Silent",2,1928,1945
+84,"NHNA",1397,"Native Hawaiian Alone",1940,"Silent",2,1928,1945
+84,"NHTOM",10197,"Two or More Races",1940,"Silent",2,1928,1945
+84,"NHWA",859493,"White Alone",1940,"Silent",2,1928,1945
+85,"H",91754,"Hispanic",1939,"Silent",2,1928,1945
+85,"NHAA",53432,"Asian Alone",1939,"Silent",2,1928,1945
+85,"NHBA",84164,"Black Alone",1939,"Silent",2,1928,1945
+85,"NHIA",5979,"American Indian Alone",1939,"Silent",2,1928,1945
+85,"NHNA",1167,"Native Hawaiian Alone",1939,"Silent",2,1928,1945
+85,"NHTOM",8974,"Two or More Races",1939,"Silent",2,1928,1945
+85,"NHWA",762187,"White Alone",1939,"Silent",2,1928,1945
+86,"H",82355,"Hispanic",1938,"Silent",2,1928,1945
+86,"NHAA",48404,"Asian Alone",1938,"Silent",2,1928,1945
+86,"NHBA",74312,"Black Alone",1938,"Silent",2,1928,1945
+86,"NHIA",5585,"American Indian Alone",1938,"Silent",2,1928,1945
+86,"NHNA",1098,"Native Hawaiian Alone",1938,"Silent",2,1928,1945
+86,"NHTOM",7994,"Two or More Races",1938,"Silent",2,1928,1945
+86,"NHWA",693016,"White Alone",1938,"Silent",2,1928,1945
+87,"H",72244,"Hispanic",1937,"Silent",2,1928,1945
+87,"NHAA",42944,"Asian Alone",1937,"Silent",2,1928,1945
+87,"NHBA",64323,"Black Alone",1937,"Silent",2,1928,1945
+87,"NHIA",4723,"American Indian Alone",1937,"Silent",2,1928,1945
+87,"NHNA",929,"Native Hawaiian Alone",1937,"Silent",2,1928,1945
+87,"NHTOM",7157,"Two or More Races",1937,"Silent",2,1928,1945
+87,"NHWA",593660,"White Alone",1937,"Silent",2,1928,1945
+88,"H",62804,"Hispanic",1936,"Silent",2,1928,1945
+88,"NHAA",37524,"Asian Alone",1936,"Silent",2,1928,1945
+88,"NHBA",56659,"Black Alone",1936,"Silent",2,1928,1945
+88,"NHIA",4147,"American Indian Alone",1936,"Silent",2,1928,1945
+88,"NHNA",811,"Native Hawaiian Alone",1936,"Silent",2,1928,1945
+88,"NHTOM",6195,"Two or More Races",1936,"Silent",2,1928,1945
+88,"NHWA",514874,"White Alone",1936,"Silent",2,1928,1945
+89,"H",55285,"Hispanic",1935,"Silent",2,1928,1945
+89,"NHAA",32888,"Asian Alone",1935,"Silent",2,1928,1945
+89,"NHBA",49257,"Black Alone",1935,"Silent",2,1928,1945
+89,"NHIA",3640,"American Indian Alone",1935,"Silent",2,1928,1945
+89,"NHNA",685,"Native Hawaiian Alone",1935,"Silent",2,1928,1945
+89,"NHTOM",5534,"Two or More Races",1935,"Silent",2,1928,1945
+89,"NHWA",451548,"White Alone",1935,"Silent",2,1928,1945
+90,"H",45122,"Hispanic",1934,"Silent",2,1928,1945
+90,"NHAA",27694,"Asian Alone",1934,"Silent",2,1928,1945
+90,"NHBA",40510,"Black Alone",1934,"Silent",2,1928,1945
+90,"NHIA",2947,"American Indian Alone",1934,"Silent",2,1928,1945
+90,"NHNA",626,"Native Hawaiian Alone",1934,"Silent",2,1928,1945
+90,"NHTOM",4626,"Two or More Races",1934,"Silent",2,1928,1945
+90,"NHWA",373528,"White Alone",1934,"Silent",2,1928,1945
+91,"H",36768,"Hispanic",1933,"Silent",2,1928,1945
+91,"NHAA",24290,"Asian Alone",1933,"Silent",2,1928,1945
+91,"NHBA",33330,"Black Alone",1933,"Silent",2,1928,1945
+91,"NHIA",2544,"American Indian Alone",1933,"Silent",2,1928,1945
+91,"NHNA",520,"Native Hawaiian Alone",1933,"Silent",2,1928,1945
+91,"NHTOM",3935,"Two or More Races",1933,"Silent",2,1928,1945
+91,"NHWA",312361,"White Alone",1933,"Silent",2,1928,1945
+92,"H",31354,"Hispanic",1932,"Silent",2,1928,1945
+92,"NHAA",20896,"Asian Alone",1932,"Silent",2,1928,1945
+92,"NHBA",27811,"Black Alone",1932,"Silent",2,1928,1945
+92,"NHIA",2109,"American Indian Alone",1932,"Silent",2,1928,1945
+92,"NHNA",444,"Native Hawaiian Alone",1932,"Silent",2,1928,1945
+92,"NHTOM",3470,"Two or More Races",1932,"Silent",2,1928,1945
+92,"NHWA",268502,"White Alone",1932,"Silent",2,1928,1945
+93,"H",25487,"Hispanic",1931,"Silent",2,1928,1945
+93,"NHAA",17012,"Asian Alone",1931,"Silent",2,1928,1945
+93,"NHBA",21637,"Black Alone",1931,"Silent",2,1928,1945
+93,"NHIA",1696,"American Indian Alone",1931,"Silent",2,1928,1945
+93,"NHNA",337,"Native Hawaiian Alone",1931,"Silent",2,1928,1945
+93,"NHTOM",2781,"Two or More Races",1931,"Silent",2,1928,1945
+93,"NHWA",222544,"White Alone",1931,"Silent",2,1928,1945
+94,"H",21249,"Hispanic",1930,"Silent",2,1928,1945
+94,"NHAA",15137,"Asian Alone",1930,"Silent",2,1928,1945
+94,"NHBA",18321,"Black Alone",1930,"Silent",2,1928,1945
+94,"NHIA",1444,"American Indian Alone",1930,"Silent",2,1928,1945
+94,"NHNA",311,"Native Hawaiian Alone",1930,"Silent",2,1928,1945
+94,"NHTOM",2379,"Two or More Races",1930,"Silent",2,1928,1945
+94,"NHWA",183496,"White Alone",1930,"Silent",2,1928,1945
+95,"H",15742,"Hispanic",1929,"Silent",2,1928,1945
+95,"NHAA",11620,"Asian Alone",1929,"Silent",2,1928,1945
+95,"NHBA",13541,"Black Alone",1929,"Silent",2,1928,1945
+95,"NHIA",1126,"American Indian Alone",1929,"Silent",2,1928,1945
+95,"NHNA",255,"Native Hawaiian Alone",1929,"Silent",2,1928,1945
+95,"NHTOM",1929,"Two or More Races",1929,"Silent",2,1928,1945
+95,"NHWA",139815,"White Alone",1929,"Silent",2,1928,1945
+96,"H",11739,"Hispanic",1928,"Silent",2,1928,1945
+96,"NHAA",9362,"Asian Alone",1928,"Silent",2,1928,1945
+96,"NHBA",10593,"Black Alone",1928,"Silent",2,1928,1945
+96,"NHIA",907,"American Indian Alone",1928,"Silent",2,1928,1945
+96,"NHNA",170,"Native Hawaiian Alone",1928,"Silent",2,1928,1945
+96,"NHTOM",1600,"Two or More Races",1928,"Silent",2,1928,1945
+96,"NHWA",108291,"White Alone",1928,"Silent",2,1928,1945
+97,"H",8373,"Hispanic",1927,"Greatest",1,1901,1927
+97,"NHAA",7430,"Asian Alone",1927,"Greatest",1,1901,1927
+97,"NHBA",7872,"Black Alone",1927,"Greatest",1,1901,1927
+97,"NHIA",692,"American Indian Alone",1927,"Greatest",1,1901,1927
+97,"NHNA",138,"Native Hawaiian Alone",1927,"Greatest",1,1901,1927
+97,"NHTOM",1224,"Two or More Races",1927,"Greatest",1,1901,1927
+97,"NHWA",80687,"White Alone",1927,"Greatest",1,1901,1927
+98,"H",5817,"Hispanic",1926,"Greatest",1,1901,1927
+98,"NHAA",5571,"Asian Alone",1926,"Greatest",1,1901,1927
+98,"NHBA",5812,"Black Alone",1926,"Greatest",1,1901,1927
+98,"NHIA",540,"American Indian Alone",1926,"Greatest",1,1901,1927
+98,"NHNA",107,"Native Hawaiian Alone",1926,"Greatest",1,1901,1927
+98,"NHTOM",944,"Two or More Races",1926,"Greatest",1,1901,1927
+98,"NHWA",59192,"White Alone",1926,"Greatest",1,1901,1927
+99,"H",3959,"Hispanic",1925,"Greatest",1,1901,1927
+99,"NHAA",4332,"Asian Alone",1925,"Greatest",1,1901,1927
+99,"NHBA",4008,"Black Alone",1925,"Greatest",1,1901,1927
+99,"NHIA",379,"American Indian Alone",1925,"Greatest",1,1901,1927
+99,"NHNA",86,"Native Hawaiian Alone",1925,"Greatest",1,1901,1927
+99,"NHTOM",712,"Two or More Races",1925,"Greatest",1,1901,1927
+99,"NHWA",40415,"White Alone",1925,"Greatest",1,1901,1927
+100,"H",6262,"Hispanic",1924,"Greatest",1,1901,1927
+100,"NHAA",9763,"Asian Alone",1924,"Greatest",1,1901,1927
+100,"NHBA",7497,"Black Alone",1924,"Greatest",1,1901,1927
+100,"NHIA",855,"American Indian Alone",1924,"Greatest",1,1901,1927
+100,"NHNA",167,"Native Hawaiian Alone",1924,"Greatest",1,1901,1927
+100,"NHTOM",1577,"Two or More Races",1924,"Greatest",1,1901,1927
+100,"NHWA",70553,"White Alone",1924,"Greatest",1,1901,1927

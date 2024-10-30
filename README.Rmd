@@ -106,6 +106,10 @@ gen_pops1 |>
 ```
 
 
+```{r eval=FALSE, include=FALSE}
+setwd('/home/jtimm/pCloudDrive/GitHub/git-projects/AmericanGenerations/data')
+write.csv(gen_pops1, 'cleaned_data.csv', row.names = F)
+```
 
 
 
