@@ -1,7 +1,7 @@
 # American Generations
 
-> A quick look at the composition of American generations. Per Pew
-> Research definitions & US Census data.
+> A quick look at the racial/ethnic composition and age distribution of
+> American generations. Per Pew Research definitions & US Census data.
 
 ``` r
 library(dplyr)
@@ -110,13 +110,13 @@ gen_pops1 |>
 
 | race1                 |  yob | AGE | gen        |     pop |
 |:----------------------|-----:|----:|:-----------|--------:|
-| American Indian Alone | 1970 |  54 | Gen X      |   28903 |
-| Two or More Races     | 1937 |  87 | Silent     |    7157 |
-| Native Hawaiian Alone | 1924 | 100 | Greatest   |     167 |
-| Hispanic              | 1986 |  38 | Millennial |  948671 |
-| White Alone           | 2001 |  23 | Gen Z      | 2292512 |
-| Two or More Races     | 2002 |  22 | Gen Z      |  155244 |
-| Native Hawaiian Alone | 2015 |   9 | Alpha      |    9463 |
+| American Indian Alone | 1945 |  79 | Silent     |   11158 |
+| Asian Alone           | 1953 |  71 | Boomers    |  171729 |
+| Asian Alone           | 2024 |   0 | Alpha      |  193309 |
+| White Alone           | 1975 |  49 | Gen X      | 2212520 |
+| Native Hawaiian Alone | 1983 |  41 | Millennial |   10592 |
+| White Alone           | 1987 |  37 | Millennial | 2475205 |
+| Hispanic              | 1999 |  25 | Gen Z      | 1033154 |
 
 ## Composition of American generations
 
@@ -145,7 +145,7 @@ gen_pops1 |>
        caption = 'SOURCE: US Census, Monthly Postcensal Resident Population, October 2024.')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 ### Population by single year of age & generation
 
@@ -195,7 +195,7 @@ gen_pops |>
   labs(title = 'American population by single-year age & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
 ### Population by single year of age, race & generation
 
@@ -235,7 +235,7 @@ gen_pops |>
   labs(title ='American population by age, race & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
 ### A cross-section
 
@@ -251,8 +251,32 @@ white_label <- gen_pops |>
                     '1981', '1997', '2013'))
 ```
 
-The last figure illustrates a **proportional perspective of race &
-ethnicity in America** by single year of age.
+The final figure provides a **proportional breakdown of race and
+ethnicity in the United States**, organized by single year of age.
+
+> The chart illustrates a clear and ongoing demographic shift in the
+> racial and ethnic composition of the American population across
+> generations. Older cohorts, such as the Silent Generation and Baby
+> Boomers, are overwhelmingly composed of individuals categorized as
+> “White Alone,” with minimal representation from other racial and
+> ethnic groups. As we move to younger generations, starting with
+> Generation X, there is a noticeable increase in diversity.
+
+> Millennials, Generation Z, and Generation Alpha demonstrate
+> significant changes, with the proportion of “White Alone” individuals
+> decreasing steadily. At the same time, the share of Hispanic, Asian,
+> and mixed-race populations (“Two or More Races”) grows considerably.
+> This pattern underscores a broader trend toward greater racial and
+> ethnic diversity in the younger cohorts. By the time we reach
+> Generation Alpha, the demographic composition becomes the most
+> diverse, reflecting the cumulative impact of immigration,
+> intermarriage, and evolving cultural identities.
+
+> This progression highlights a generational shift in the United States,
+> where younger populations represent a more multicultural and
+> pluralistic society, contrasting sharply with the more homogenous
+> makeup of older generations. The chart encapsulates how societal and
+> demographic changes are reshaping the fabric of the nation over time.
 
 ``` r
 gen_pops |>
@@ -288,4 +312,4 @@ gen_pops |>
   labs(title = 'American population by age, race & generation')
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-13-1.png)

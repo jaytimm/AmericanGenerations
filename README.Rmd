@@ -6,7 +6,7 @@ output:
 
 # American Generations
 
-> A quick look at the composition of American generations. Per Pew Research definitions & US Census data.
+> A quick look at the racial/ethnic composition and age distribution of American generations. Per Pew Research definitions & US Census data.
 
 ```{r message=FALSE, warning=FALSE}
 library(dplyr)
@@ -252,7 +252,16 @@ white_label <- gen_pops |>
 
 
 
-The last figure illustrates a **proportional perspective of race & ethnicity in America** by single year of age.   
+The final figure provides a **proportional breakdown of race and ethnicity in the United States**, organized by single year of age.
+
+> The chart illustrates a clear and ongoing demographic shift in the racial and ethnic composition of the American population across generations. Older cohorts, such as the Silent Generation and Baby Boomers, are overwhelmingly composed of individuals categorized as "White Alone," with minimal representation from other racial and ethnic groups. As we move to younger generations, starting with Generation X, there is a noticeable increase in diversity.
+
+
+> Millennials, Generation Z, and Generation Alpha demonstrate significant changes, with the proportion of "White Alone" individuals decreasing steadily. At the same time, the share of Hispanic, Asian, and mixed-race populations ("Two or More Races") grows considerably. This pattern underscores a broader trend toward greater racial and ethnic diversity in the younger cohorts. By the time we reach Generation Alpha, the demographic composition becomes the most diverse, reflecting the cumulative impact of immigration, intermarriage, and evolving cultural identities.
+
+
+> This progression highlights a generational shift in the United States, where younger populations represent a more multicultural and pluralistic society, contrasting sharply with the more homogenous makeup of older generations. The chart encapsulates how societal and demographic changes are reshaping the fabric of the nation over time.
+
 
 ```{r fig.height=7.25}
 gen_pops |>
